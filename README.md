@@ -11,6 +11,6 @@ The aim of this investigation is to find if the number of public libraries has a
 A side result of this investigation has come to be a comparation between two ways of data acquisition and readibility.
 The following map has been created with 'folium' python library while the second has been done with Tableau
 
-![Distritos](/heat_mad.png)
+![heatmap](/heat_mad.png)
 
 ![Distritos](/distrito_inst.png)
